@@ -7,4 +7,4 @@ var fizzbuzz = "FizzBuzz"
 for (var i = 0; i <= 100; i++) {
         array.push(i)
 }
-stampa.innerHTML=  array;
+stampa.innerHTML=  array
