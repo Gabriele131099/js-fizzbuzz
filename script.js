@@ -22,7 +22,7 @@ for (var i = 0; i < 100; i++) {  //se metto 1 a i non funziona  !important
 
 stampa.innerHTML= array;
 
-for(var i = 1; i < 100; i++){
+for(var i = 2; i < 100; i++){
 
     if (i%3 === 0 && i%5 === 0) {
 
