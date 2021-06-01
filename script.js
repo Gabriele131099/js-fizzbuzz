@@ -4,8 +4,8 @@ var fizz = "Fizz"
 var buzz = "Buzz"
 var fizzbuzz = "FizzBuzz"
 
-for (var i = 0; i <= 100; i++) {
-        array.push(i)
+for (var i = 0; i <= 100; i++) {  //se metto 1 a i non funziona  !important
+    array.push(i)
         if (array[i]%3 === 0) {
             array[i]= fizz
         } else { 
